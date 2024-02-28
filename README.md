@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/r-150458.svg?style=for-the-badge&logo=r&logoColor=white" />
 </div>
-<h3 align="center">📚 공부 중 📚</h3>
+<h3 align="center">📚 공부 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/tax_&_accounting-007ACC.svg?style=for-the-badge&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Department_of_Statistics_and_Data_Science-FF4154?style=for-the-badge&logoColor=white" />
