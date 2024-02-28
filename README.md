@@ -16,7 +16,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/data_analysis-47A248?style=for-the-badge&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/data_visualization-F9A03C?style=for-the-badge&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/machine_learning-FF6F61?style=for-the-badge&logoColor=white" />
 </div>
 <h3 align="center">📫 연락처 📫</h3>
 <div align="center">
@@ -24,5 +23,5 @@
     <img src="https://img.shields.io/badge/mhchoi1214@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-## 감사합니다! 😊✨
+
 </div>
